@@ -1,0 +1,7 @@
+{
+  "name": "NaijaStyle Product Studio",
+  "description": "Transform standard product photos into premium, culturally authentic professional photographs featuring rich Nigerian aesthetics and traditional elements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
